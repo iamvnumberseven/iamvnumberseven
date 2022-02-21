@@ -18,8 +18,8 @@ An independent Programmer who loves to create and share projects about web techn
 ### Github Statistic
 <p align="left">
 <a href="https://github.com/v1n010801">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gilangadhan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gilangadhan&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=v1n010801&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=v1n010801&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 

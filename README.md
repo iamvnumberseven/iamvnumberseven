@@ -3,10 +3,10 @@
 An independent Programmer who loves to create and share projects about web technology! I've enjoyed JavaScript and make it the main language in creating a project.
 
 - 🔭 I’m currently studying on <a href="https://www.unikom.ac.id/">UNIKOM</a>
-- 🌱 I’m currently learning about NodeJS for back-end apps
+- 🌱 I’m currently learning about React & Vue.js for front-end apps
 - 💬 Feel free to ask me about web development
 - 📫 How to reach me: kevinpratamaoke@gmail.com
-- ⚡ Fun fact: Programmer who loves metal music
+- ⚡ Fun fact: Programmer who loves metal & k-pop music
 
 ### Tech Stack
   <a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>

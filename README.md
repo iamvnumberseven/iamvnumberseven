@@ -17,7 +17,7 @@ An independent Programmer who loves to create and share projects about web techn
   
 ### Github Statistic
 <p align="left">
-<a href="https://github.com/todayisvin">
+<a href="https://github.com/iamvnumberseven">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=todayisvin&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=todayisvin&layout=compact&langs_count=8&theme=algolia"/>
 </a>
@@ -27,4 +27,4 @@ An independent Programmer who loves to create and share projects about web techn
 - <a href="https://www.linkedin.com/in/kevin-pratama-sinaga-1b084a1b8/">LinkedIn</a>
 - <a href="https://kevinpratamasinaga.my.id/">kevinpratamasinaga.my.id</a>
 - kevinpratamaoke@gmail.com
-- <a href="https://www.instagram.com/v1n.css/">Instagram</a>
+- <a href="https://www.instagram.com/iamvnumberseven/">Instagram</a>

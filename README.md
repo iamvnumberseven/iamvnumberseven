@@ -24,7 +24,7 @@ An independent Programmer who loves to create and share projects about web techn
 </p>
 
 ### Reach me on
-- <a href="https://www.linkedin.com/in/kevin-pratama-sinaga-1b084a1b8/">LinkedIn</a>
+- <a href="https://www.linkedin.com/in/kevin-pratama-sinaga/">LinkedIn</a>
 - <a href="https://kevinpratamasinaga.my.id/">kevinpratamasinaga.my.id</a>
 - kevinpratamaoke@gmail.com
-- <a href="https://www.instagram.com/iamvnumberseven/">Instagram</a>
+- <a href="https://www.instagram.com/pratama_kevin7/">Instagram</a>

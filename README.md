@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@kevin_pratama7](https://medium.com/@kevin_pratama7)
 
-- 💬 Ask me about **JavaScript, React.jS, Vue.js & Node.js**
+- 💬 Ask me about **JavaScript**
 
 - 📫 How to reach me **kevinpratamaoke@gmail.com**
 
@@ -28,7 +28,6 @@
 <a href="https://fb.com/kevinpratamasinaga7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kevinpratamasinaga7" height="30" width="40" /></a>
 <a href="https://instagram.com/pratama_kevin7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pratama_kevin7" height="30" width="40" /></a>
 <a href="https://medium.com/@kevin_pratama7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@kevin_pratama7" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/kevin pratama sinaga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kevin pratama sinaga" height="30" width="40" /></a>
 <a href="https://discord.gg/1796" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="1796" height="30" width="40" /></a>
 </p>
 
